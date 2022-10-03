@@ -1,4 +1,4 @@
-# Stock Check ML Web Application using React, Node, Python, Pandas, TensorFlow, MatPlotLib
+# Stock Check ML Web Application using React, Node, Python, Pandas, TensorFlow, MatPlotLib, SciKit-Learn
 
 In the project directory, you can run:
 
